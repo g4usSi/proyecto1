@@ -16,6 +16,7 @@ class Persona
 {
     public void Saludo() {
         Console.WriteLine("Wenasss :3");
+        Console.WriteLine("Hola, soy Jennifer");
     }
 }
 //listo
