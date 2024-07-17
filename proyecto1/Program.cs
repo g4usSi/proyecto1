@@ -8,6 +8,7 @@ class Program
         Console.WriteLine("Listo...");
         people.Saludo();
         people.Regalo();
+        people.Rechazo();
     }
 
 }
