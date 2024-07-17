@@ -30,5 +30,9 @@ class Persona
     public void Regalo() {
         Console.WriteLine("Te he dado un regalo... <3");
     }
+    public void Rechazo()
+    {
+        Console.WriteLine("RECHAZDO");
+    }
 }
 //listo
