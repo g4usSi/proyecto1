@@ -7,6 +7,8 @@ class Program
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Listo...");
         people.Saludo();
+        people.Regalo2();
+        people.RechazoDeRegalo();
 
     }
 
@@ -22,6 +24,11 @@ class Persona
     public void Regalo2()
     {
         Console.WriteLine("UN abrazo");
+    }
+
+    public void RechazoDeRegalo()
+    {
+        Console.WriteLine("rechazo tu UN abrazo");
     }
 }
 //listo
