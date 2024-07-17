@@ -1,7 +1,7 @@
 ﻿using System.Threading.Channels;
 class Program
 {
-    public static void main(String[] arg)
+    public static void Main(String[] arg)
     {
         Persona people = new Persona();
         Console.WriteLine("Hello, World!");
@@ -18,3 +18,4 @@ class Persona
         Console.WriteLine("Wenasss :3");
     }
 }
+//listo
